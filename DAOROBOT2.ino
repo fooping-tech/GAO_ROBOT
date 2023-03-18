@@ -105,28 +105,33 @@ void loop() {
     led.fade();
     Atom.SetServoAngle(2,0);
   }
+  //mode1
   if(mode == 1){
     Atom.SetServoAngle(2,180);
     led.clyon();
   }
-  //
+  //mode2
   if(mode == 2){
     if(!CheckSQ()){
       StartSeq();
     }
   }
+  //mode3
   if(mode == 3){
     Atom.SetServoAngle(2,180);
     led.pacifica();
   }
+  //mode4
   if(mode == 4){
     Atom.SetServoAngle(2,180);
     led.flash(0);
   }
+  //mode5
   if(mode == 5){
     Atom.SetServoAngle(2,180);
     led.flash(100);
   }
+  //mode6
   if(mode == 6){
     Atom.SetServoAngle(2,180);
     led.flash(200);
