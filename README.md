@@ -10,6 +10,5 @@ GAO ROBOTはDiscord bot GAOから操作してフィジカルロボットを動�
 * M5Atom LITE https://ssci.to/6262
 * M5AtomMotion https://ssci.to/6993
 * SG90 https://akizukidenshi.com/catalog/g/gM-08761/
-* NEO PIXEL LED 
-
-## Case STL
+* NEO PIXEL LED RING
+* GAO人形
