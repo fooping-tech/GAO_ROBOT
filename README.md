@@ -15,5 +15,6 @@ GAO ROBOTはDiscord bot GAOから操作してフィジカルロボットを動�
 
 ## 関連情報
 GAO Discord botのリポジトリは以下を参照してください。
+
 https://github.com/fukusuke007/GAO
 
